@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=AsterOS First Login
+Exec=sh -c 'xfconf-query -c xsettings -p /Net/ThemeName -s Adwaita-dark 2>/dev/null || true; xfconf-query -c xfwm4 -p /general/theme -s Default 2>/dev/null || true'
+NoDisplay=true
+X-GNOME-Autostart-enabled=true

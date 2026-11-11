@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=AsterOS Settings
+Exec=asteros-settings
+Icon=preferences-system
+Terminal=false
+Categories=Settings;

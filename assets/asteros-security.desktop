@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=AsterOS Security Center
+Exec=asteros-security
+Icon=security-high
+Terminal=false
+Categories=System;Security;
